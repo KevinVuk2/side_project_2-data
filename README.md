@@ -9,6 +9,6 @@ Data Filtering: The dataset is filtered to create a subset containing only conte
 Duration Visualization: A histogram is generated using matplotlib to visualize the distribution of movie durations from the 1990s, helping to identify common runtimes.
 Genre-Specific Investigation: The analysis drills down further to count the number of "Action" movies from the 1990s that have a duration of less than 90 minutes.
 Technologies Used
-Python
-pandas
-matplotlib
+- Python
+- pandas
+- matplotlib
