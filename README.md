@@ -1,3 +1,4 @@
+![Netflix](redpopcorn.jpg)
 # This is a Project I did while studying Data Analysis
 
 # Netflix 1990s Movie Analysis
